@@ -1,0 +1,20 @@
+{
+  "name": "learn-anything-skill",
+  "description": "Turn any topic, doc, or codebase into a personal course: diagnostic syllabus, active lessons, quizzes, flashcards with Anki export, SM-2 spaced repetition, a Socratic tutor and evidence-based progress reports.",
+  "version": "1.0.0",
+  "author": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "homepage": "https://github.com/vivekbhange-hub/learn-anything-skill",
+  "repository": "https://github.com/vivekbhange-hub/learn-anything-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "learning",
+    "spaced-repetition",
+    "flashcards",
+    "anki",
+    "tutor",
+    "education",
+    "study"
+  ]
+}

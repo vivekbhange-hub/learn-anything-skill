@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "learn-anything-skill",
+  "description": "Turn any topic, doc, or codebase into a personal course with a tutor that won't just hand you the answer.",
+  "owner": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "plugins": [
+    {
+      "name": "learn-anything-skill",
+      "description": "Eight Claude Code skills and three agents that diagnose your level, build a syllabus, teach with worked and faded examples, quiz you, run SM-2 spaced repetition, export Anki cards, tutor Socratically and track mastery, all in a local learn/ folder.",
+      "source": "./",
+      "category": "education",
+      "homepage": "https://github.com/vivekbhange-hub/learn-anything-skill"
+    }
+  ]
+}
